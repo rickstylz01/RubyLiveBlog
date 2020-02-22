@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: leviathan13
+  api_key: '761343327546157'
+  api_secret: TOGwl23VNlm6mGV3DiOuLswfYC0
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: leviathan13
+  api_key: '761343327546157'
+  api_secret: TOGwl23VNlm6mGV3DiOuLswfYC0
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: leviathan13
+  api_key: '761343327546157'
+  api_secret: TOGwl23VNlm6mGV3DiOuLswfYC0
+  enhance_image_tag: true
+  static_file_support: false
